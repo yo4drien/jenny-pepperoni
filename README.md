@@ -1,1 +1,1 @@
-# pepperoni
+# pepperoni readme for project
